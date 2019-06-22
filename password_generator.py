@@ -7,4 +7,4 @@ length = int(length)
 password = ''
 for c in range(length):
     password += random.choice(chars)
-print(password)
+print(password + ' is your password.')
