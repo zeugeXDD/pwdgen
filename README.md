@@ -2,4 +2,4 @@
 A basic password generator made with python
 
 # How to run 
-python "password_generator.py"
+python "password generator.py"
